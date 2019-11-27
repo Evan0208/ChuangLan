@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <config>
+
+        <trigger>
+            <object></object>
+            <operate>add</operate>
+            <position>after</position>
+            <order>1</order>
+            <class></class>
+        </trigger>
+
+        <wfmTrigger>
+            <object></object>
+            <class></class>
+        </wfmTrigger>
+
+        <DSUserTrigger>
+            <object></object>
+            <apikey></apikey>
+            <class></class>
+        </DSUserTrigger>
+
+    </config>
+</configs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configs>
+    <config>
+        <api>
+            <class>other.account.getownerbypurchasingunits.getownerbypurchasingunits</class>
+            <url>/search-ownerbypurchasingunits</url>
+        </api>
+    </config>
+</configs>
